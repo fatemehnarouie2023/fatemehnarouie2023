@@ -1,16 +1,13 @@
-## Hi there 👋
+# Fatemeh Narouei
 
-<!--
-**fatemehnarouie2023/fatemehnarouie2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. in Computer Science (Soft Computing and AI), University of Sistan and Baluchestan, Iran.
 
-Here are some ideas to get you started:
+## Interests
+Medical image analysis, brain tumor MRI classification, and how models generalize across datasets when medical data are limited.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects (code available on request)
+- **Brain tumor MRI classification:** residual CNN with squeeze-and-excitation blocks on the Figshare dataset; patient-level evaluation in progress.
+- **Tumor detection with YOLO (discontinued):** adapted YOLOv7 and YOLOv8 for brain MRI; stopped because no bounding-box annotations were available.
+- **GANs on BraTS:** small self-directed exploratory project.
+
+Contact: Fatemeh.narouie@pgs.usb.ac.ir
